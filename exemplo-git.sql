@@ -1,6 +1,6 @@
 -- Tabela de Hóspedes
 CREATE TABLE Hospede (
-    id INT PRIMARY KEY,
+    Codigo INT PRIMARY KEY,
     nome VARCHAR(100),
     email VARCHAR(100),
     telefone VARCHAR(20)
