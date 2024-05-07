@@ -58,3 +58,5 @@ CREATE TABLE Comentario (
     data_comentario DATE,
     FOREIGN KEY (id_hospede) REFERENCES Hospede(id)
 );
+
+-- Teste de pull request no git
