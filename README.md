@@ -9,3 +9,8 @@ O gerente de um hotel de médio porte solicitou um sistema de banco de dados par
 -	Além de realizar reservas, também nos esforçamos para atender às necessidades adicionais dos nossos hóspedes durante sua visita. Por exemplo, serviços como lavanderia e serviço de quarto É possível que vários serviços adicionais estejam incluídos em cada reserva, e é fundamental que registremos esses serviços de forma precisa e eficaz.
 -	A gestão dos funcionários do hotel é outra questão importante para nós. Nosso objetivo é manter registros detalhados de cada funcionário, incluindo nome, cargo, departamento e data de admissão. Cada funcionário trabalha em um único departamento, mas um departamento pode ter vários funcionários. Nós poderemos atribuir tarefas de forma eficaz e garantir que cada departamento tenha o pessoal necessário para atender às demandas dos nossos hóspedes como resultado disso.
 -	Além disso, gostaríamos de saber o que nossos hóspedes pensam sobre sua estadia. Cada comentário deve ser relacionado a um hóspede específico, e um hóspede pode fazer vários comentários ao longo do tempo. Como resultado, poderemos avaliar a satisfação dos nossos clientes e descobrir quais aspectos precisam ser melhorados.”.
+
+div align="center"
+img src="![ModeloConceitual_Hotel drawio](https://github.com/thiago-lima-Fepi/Sistema-de-Gerenciamento-de-Hotel/assets/169105643/8428b510-ca5d-4ac0-b46f-eec120e384f9)
+" width="200px" /
+/div
